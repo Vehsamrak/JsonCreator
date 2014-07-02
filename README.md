@@ -1,4 +1,12 @@
 JsonCreator
 ===========
 
-Json Creator for bash
+Welcome to JsonCreator for bash
+
+You can now easily format any data to json
+Version:  1.0
+
+
+**Usage:** jsoncreator.sh [key value [another_key value_pairs] ...
+
+**Output:** {"kay":"value","another_key":"value"}
